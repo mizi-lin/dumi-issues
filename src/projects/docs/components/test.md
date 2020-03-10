@@ -2,7 +2,7 @@
 sidemenu: false
 ---
 
-# README ~~
+# TEST - 1
 
 江山如此多娇 
 
@@ -12,9 +12,7 @@ export default () => <h1 style={{ color: '#555' }}>Hello World!</h1>;
 
 ```
 
-<code src="abc.tsx" inline />
-
-# TEST MD
+<code src="def.tsx" />
 
 ## 安装项目
 - 1
