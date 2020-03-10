@@ -21,9 +21,7 @@ demoapp
 dist
 mrerc.ts
 node_modules
-package.json
 pages
-src/projects/*/package.json
 tmp
 typings
 vscode
